@@ -15,7 +15,9 @@ Cost Efficiency Metrics: Visuals to assess cost per day, admission type, and ope
 
 ## Data Transformation & Metrics:
 Calculated Length of Stay by finding the difference between the admission and discharge dates.
+
 Derived Cost Per Day by dividing the total billing amount by the length of stay.
+
 Grouped billing amounts into defined bins for better distribution analysis.
 
 ## Objective:
@@ -23,7 +25,9 @@ To empower hospital management with data-driven insights for optimizing operatio
 
 ## Tools Used:
 Power BI
+
 Excel (Data Cleaning & Preparation)
+
 Power Query
 
 ## Impact:
